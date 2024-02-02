@@ -1,3 +1,4 @@
+# Github and git conflict
 # CSC4110-assignment1
 
 This repository is for the CSC4110 Software Engineering course assignment.
